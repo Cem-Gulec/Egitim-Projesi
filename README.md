@@ -15,6 +15,9 @@ git clone https://github.com/TycheLearningCommunity/Egitim-Projesi.git
 ### 1.2 Branch değiştirmek
 Aşağıdaki kod satırıyla tüm branch isimlerini görebiliriz.
 ```
+cd Egitim-Projesi
+```
+```
 git branch -a
 ```
 Diğer bir kod satırıyla da istediğimiz branche geçmiş olacağız.
