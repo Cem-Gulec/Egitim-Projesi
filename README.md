@@ -27,10 +27,7 @@ git checkout Ders-1
 
 ### 1.3 Virtual Environment aktive etmek
 ```
-cd Ders-1
-```
-```
-. Scripts/activate
+. Ders-1/Scripts/activate
 ```
 
 ### 1.4 İnaktif hale getirmek
