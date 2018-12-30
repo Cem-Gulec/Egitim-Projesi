@@ -1,3 +1,3 @@
 # Egitim-Projesi
 
-Dersler parçalar şeklinde branchlerde bulunuyor olacaktır.
+Dersler parçalar halinde branchlerde bulunuyor olacaktır.
