@@ -30,7 +30,7 @@ git checkout Ders-1
 cd Ders-1
 ```
 ```
-. Ders-1/Scripts/activate
+. Scripts/activate
 ```
 
 ### 1.4 İnaktif hale getirmek
